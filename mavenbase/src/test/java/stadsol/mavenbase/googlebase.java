@@ -27,8 +27,8 @@ public class googlebase {
 	    
 	    
 	    // get command
-	    String url = "http://www.google.com/";
-	    driver.get(url);
+	    String u = "http://www.google.com/";
+	    driver.get(u);
 	    
 	    //nevigate command
 	    
